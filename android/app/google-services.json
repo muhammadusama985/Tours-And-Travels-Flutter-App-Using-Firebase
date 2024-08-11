@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "37784988212",
+    "project_id": "solotrip-4fc3c",
+    "storage_bucket": "solotrip-4fc3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37784988212:android:f72273c86c20fc0532b861",
+        "android_client_info": {
+          "package_name": "com.solosavour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37784988212-9p9sm8344feudvh0emfcveeirmmt2r14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solosavour",
+            "certificate_hash": "d892b19524fc8596a2695d9542bb97a9f137059e"
+          }
+        },
+        {
+          "client_id": "37784988212-r5o3simakabn9na6514f5e2aq1mgtb1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrlvt6l4eZk7qK_LBITePEARtA8k69ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37784988212-r5o3simakabn9na6514f5e2aq1mgtb1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37784988212-7f74nje979jknt9vhh86hsohkqgpda8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solosavour.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
